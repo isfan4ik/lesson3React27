@@ -1,0 +1,11 @@
+.nav{
+   margin-left: 200px;
+   display: flex;
+   list-style: none;
+}
+
+.nav-link{
+   margin-left: 200px;
+   text-decoration: none;
+   color: rgb(127, 255, 212);
+}
